@@ -1,7 +1,8 @@
 👋 Olá, me chamo Luan de Oliveira.
-💡 Pós-graduando em Ciência de Dados e Big Data Analytics
+👨🏼‍💻 Pós-graduando em Ciência de Dados e Big Data Analytics
+🛢️ Pós-graduando em Administração de Bancos de Dados
 
-Atuo como Analista de Dados, com experiência em KPIs, Analista de Banco de Dado, Customer Experience (CX) e Big Data. Possuo conhecimentos em modelagem de banco de dados, Business Intelligence (BI), análise de dados e visualização.
+Atuo como Analista de Dados, com experiência em KPIs, DBA, Customer Experience (CX) e Big Data. Possuo conhecimentos em modelagem de banco de dados, Business Intelligence (BI), análise de dados e visualização.
 
 Busco aprendizado contínuo nas áreas de gestão de pessoas, análise de dados e controle e gestão de resultados.
 
